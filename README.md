@@ -1,7 +1,3 @@
-<style>
-img { width: 400px; display: block; }
-</style>
-
 # Bomberman clone
 
 Simple clone of Bomberman game in C# using WinForms.
